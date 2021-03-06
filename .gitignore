@@ -3,3 +3,8 @@
 ignore-me.db
 
 /large-directory-that-should-be-local-only
+
+node_modules/
+.vscode/
+pycache/
+
