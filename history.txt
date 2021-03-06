@@ -1,0 +1,171 @@
+    1  ls
+    2  exit
+    3  ack
+    4  back
+    5  git reset
+    6  exit
+    7  ls
+    8  cd MINGW64:/c/Users/SabUnity Ltd/Desktop
+    9  cd Desktop
+   10  cd Projectz
+   11  cd No1
+   12  git clone https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- repo1
+   13  git checkout -b 1stBranch
+   14  ls
+   15  git status
+   16  git reset
+   17  ls
+   18  cd Desktop
+   19  cd Projectz/No1
+   20  cd Projectz/No2
+   21  git remote https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   22  ls
+   23  git clone https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- repo1
+   24  git init
+   25  ls
+   26  git checkout -b 1stBranch
+   27  nano 1stMarkdown.mdnano 1stMarkdown.m
+   28  ls
+   29  1stMarkdown.md
+   30  nano 1stMarkdown.md
+   31  ls
+   32  git remote add  Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   33  git remote add  Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   34  git remote add Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   35  cd Desktop/Projectz/No1
+   36  git remote  Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   37  git remote Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   38  ls
+   39  git init
+   40  git remote Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   41  git remote https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   42  git remote add Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   43  ls
+   44  git remote add Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-
+   45  git checkout -b 1stBranch
+   46  nano 1stMarkdown.md
+   47  git status
+   48  git commit -m ""
+   49  git config --global user.email "sabelombatha15@gmail.com"
+   50  git status
+   51  git commit -m "Added a new Markdown file as requested, open it to view more"
+   52  git status
+   53  git add 1stMarkdown.md
+   54  git status
+   55  git commit -m "Added a new Markdown file as requested, open it to view more"
+   56  git remote
+   57  pwd
+   58  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- /c/Users/SabUnity Ltd/Desktop/Projectz/No1
+   59  No1
+   60  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- No1
+   61  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- Desktop/Projectz/No1
+   62  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- /c/Users/SabUnity Ltd/Desktop/Projectz/No1
+   63  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- MINGW64:/c/Users/SabUnity Ltd/Desktop/Projectz/No1
+   64  git push Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- c/Users/SabUnity Ltd/Desktop/Projectz/No1
+   65  git status
+   66  git pull
+   67  cd No1
+   68  git pull Sabelo-Mbatha-608-tilde-project-tutorial-how-a-repo-projects-work- 1stBranch
+   69  git remote
+   70  git status
+   71  cd MINGW64:/c/Users/SabUnity Ltd/Desktop/Projectz/No1
+   72  cd Desktop
+   73  cd Projectz
+   74  cd No1
+   75  git clone https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work-:repo1
+   76  git clone https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- repo1
+   77  git checkout -b 1stBranch
+   78  git init
+   79  git checkout -b 1stBranch
+   80  nano 1stMarkdown.md
+   81  git status
+   82  cd Desktop
+   83  cd Projectz
+   84  cd No1
+   85  git clone https://github.com/Umuzi-org/Sabelo-Mbatha-606-tilde-project-tutorial-how-repo-projects-work- repo1
+   86  cd repo1
+   87  git checkout -b 1stBranch
+   88  nano 1stMarkdown.md
+   89  git status
+   90  git add 1stMarkdown.md
+   91  git commit -m "Added a ew Markdow file as requested on the new branch that was established. Please open the document to get more info on it"
+   92  git remote
+   93  git status
+   94  git push origin master
+   95  git fetch origin
+   96  git merge origin/master
+   97  git push origin master
+   98  git checkout master
+   99  git checkout main
+  100  git log
+  101  git merge origin/master
+  102  git push origin master
+  103  git push -u origin 1stBranch
+  104  git status
+  105  cd ../Desktop
+  106  git checkout Projectz
+  107  cd "Desktop/Projectz"
+  108  cd  MINGW64 ~/Desktop/Projectz
+  109  cd  MINGW64
+  110  help
+  111  retur
+  112  return
+  113  logout
+  114  cd Desktop
+  115  cd Projectz
+  116  cd No3
+  117  cd ..
+  118  cd No1
+  119  cd git-basic-exercises
+  120  ls -a.
+  121  ls -a
+  122  git init
+  123  ls -a
+  124  git status
+  125  touch README.md
+  126  ls -a
+  127  git status
+  128  git log
+  129  git add README.md
+  130  git status
+  131  git commit -m "initial commit"
+  132  git log
+  133  nano README.md
+  134  git status
+  135  cat README.md
+  136  git commit -m "second commit"
+  137  git add README.md
+  138  git commit -m "second commit"
+  139  git status
+  140  cat README.md
+  141  nano README.md
+  142  cat README.md
+  143  git status
+  144  git add README.md
+  145  git commit -m "Third commit"
+  146  git log
+  147  git checkout ed968a1ad895d303e1e740c716e1f58e16b48088
+  148  cat README.md
+  149  git checkout master
+  150  cat README.md
+  151  git branch
+  152  git checkout -b milkshake-flavours
+  153  cd ..
+  154  git-basic-exercises
+  155  cd git-basic-exercises
+  156  git branch
+  157  nano milkshakes.md
+  158  cat milkshakes.md
+  159  git status
+  160  git commit -m "added initial flavours"
+  161  git add milkshakes.md
+  162  git commit -m "added initial flavours"
+  163  git log
+  164  git status
+  165  git checkout master
+  166  git branch
+  167  git checkout -b 
+  168  git checkout -b history
+  169  git log
+  170  git branch
+  171  history > history.txt
